@@ -70,3 +70,7 @@ Business Requirement achieved: Build a weather-monitoring system that is real-ti
 - Enhance dashboard interactivity with drilldowns and alerts.
 
 - Automate data refresh schedules in Power BI Service for continuous updates.
+
+
+  ![WhatsApp Image 2026-01-28 at 15 24 35](https://github.com/user-attachments/assets/c154c133-498a-4184-9ec0-18db5c38c2bc)
+
